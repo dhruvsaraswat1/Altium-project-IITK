@@ -1,2 +1,3 @@
 # Altium-project-IITK
 SUMMER INTERNSHIP PROJECT - IUSSTF/EE/2017282D
+This project based on designing of a printed circuit board containing STM32 blue pill, Lora gateway, DB9 male connector, Hi-Link(AC-DC convertor), UFL antenna to tranmit signals and IC's like MAX485 and MAX232 with their connections with several capacitors, resistors , STM32 (blue pill) and various other components on the board. The dimension of the PCB is 7.5mm x 4.3mm. this PCB helps in collecting the data from a meter like Voltage, Current, Power (KWh) and frequency and send it in rc packets form to the reciever consisting of Raspberry Pi and LoRaWAN concentrator which are connected through a gateway. The PCB model of that gateway is also desined by me under the same internahip. 
